@@ -1,2 +1,1 @@
-# AcademicPortal
-This is the Academic Portal with CHATBOT.
+# web_project
